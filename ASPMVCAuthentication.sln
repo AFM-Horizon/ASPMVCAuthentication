@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPMVCAuthentication", "ASPMVCAuthentication\ASPMVCAuthentication.csproj", "{5D34203B-20C1-4546-BB8C-64A6227F81CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D34203B-20C1-4546-BB8C-64A6227F81CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D34203B-20C1-4546-BB8C-64A6227F81CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D34203B-20C1-4546-BB8C-64A6227F81CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D34203B-20C1-4546-BB8C-64A6227F81CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BDBBFB4-AAA0-4CDD-8A7E-26A309B15AF3}
+	EndGlobalSection
+EndGlobal
